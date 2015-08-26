@@ -1,4 +1,4 @@
 # meteor-simple-todos
-playing around/learning
+playing around/learning meteor
 
-playing aroudn with meteor
+[Deployed at](http://ligerx-sample-todo.meteor.com/)
